@@ -1,5 +1,5 @@
 # MDuck-Php
-Name: Mike Cornelius Duck
+Name: Hans klok
 Age:  20
 Code: Php
 
